@@ -2,3 +2,6 @@ outro teste
 outra alteração
 
 Teste Benedito
+
+
+Conflito!
